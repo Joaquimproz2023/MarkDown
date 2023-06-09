@@ -2,8 +2,7 @@
 
 ## ◈Introdução
 
-Este trabalho aborda o quadro Kanban, uma ferramenta visual amplamente utilizada para gerenciamento de projetos, processos e fluxos de trabalho. Também exploraremos o Scrumbun, uma variação do Kanban que combina elementos do Scrum e do Kanban. Este é o 36º documento em que este tema é abordado, buscando aprimorar e apresentar informações atualizadas sobre esses tópicos.
-
+Aqui falaremos sobre o quadro Kanban, uma ferramenta visual amplamente utilizada para gerenciamento de projetos, processos e fluxos de trabalho. Vamos dar uma olhada também no Scrumban, uma variação do Kanban que combina elementos do Scrum e do Kanban
 ## ◈Quadro Kanban
 
 ### ◇Origem
@@ -24,7 +23,7 @@ No quadro Kanban, existem alguns artefatos-chave:
 2. **Kanbans**: São os cartões ou post-its que representam as tarefas individuais. Cada kanban contém informações relevantes, como título, descrição e responsável.
 3. **Limites WIP**: São limites estabelecidos para controlar a quantidade de trabalho em cada coluna. Limitar o WIP evita a sobrecarga e mantém o fluxo de trabalho equilibrado.
 
-### ◇O nde é aplicado
+### ◇Onde é aplicado
 
 O quadro Kanban é amplamente utilizado em diversas áreas, como desenvolvimento de software, gerenciamento de projetos, atendimento ao cliente, marketing, recursos humanos, entre outros. A sua aplicação não se limita a um setor ou tipo específico de projeto, mas pode ser adaptada a qualquer processo que envolva tarefas e fluxos de trabalho.
 
@@ -33,8 +32,7 @@ O quadro Kanban é amplamente utilizado em diversas áreas, como desenvolvimento
 Uma das ferramentas digitais populares para implementar um quadro Kanban é o Trello. O Trello é uma plataforma baseada na web que permite a criação de quadros Kanban virtuais, onde as equipes podem colaborar e acompanhar o progresso das tarefas.
 
 O Trello oferece uma interface intuitiva, onde os usuários podem criar
-
- colunas personalizadas, adicionar e mover os kanbans entre as colunas, definir prazos, atribuir responsáveis e adicionar comentários. Com recursos como notificações em tempo real e integrações com outras ferramentas, o Trello facilita a comunicação e a colaboração da equipe, tornando o gerenciamento de projetos mais eficiente.
+colunas personalizadas, adicionar e mover os kanbans entre as colunas, definir prazos, atribuir responsáveis e adicionar comentários. Com recursos como notificações em tempo real e integrações com outras ferramentas, o Trello facilita a comunicação e a colaboração da equipe, tornando o gerenciamento de projetos mais eficiente.
 
 ## ◈Scrumbun
 
